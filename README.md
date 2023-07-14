@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
 <h3 align="center">A passionate full stack developer from Taiwan</h3>
-================================================================================================================================
 
 
 <h3 align="left">Languages and Tools:</h3>
