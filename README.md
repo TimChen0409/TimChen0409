@@ -14,6 +14,6 @@
 </p>
 
 ### Badges
-<b>My GitHub Stats</b>
-<a href="http://www.github.com/TimChen0409"><img src="https://github-readme-stats.vercel.app/api?username=TimChen0409&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="TimChen0409's GitHub stats" />
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=timchen0409&show_icons=true&locale=en&layout=compact" alt="timchen0409" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=timchen0409&show_icons=true&locale=en" alt="timchen0409" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=timchen0409&" alt="timchen0409" /></p>
