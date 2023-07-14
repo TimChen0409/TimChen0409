@@ -1,10 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tim Chen
+<h1 align="center">Hi 👋, I'm Tim</h1>
+<h3 align="center">A passionate full stack developer from Taiwan</h3>
 ================================================================================================================================
 
-Web Developer
--------------
-
-*   🌍  I'm based in Taiwan ,TW
 
 ### Skills 
 <p align="left">
