@@ -16,4 +16,3 @@
 ### Badges
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=timchen0409&show_icons=true&locale=en&layout=compact" alt="timchen0409" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=timchen0409&show_icons=true&locale=en" alt="timchen0409" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=timchen0409&" alt="timchen0409" /></p>
