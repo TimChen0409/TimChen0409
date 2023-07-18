@@ -9,8 +9,8 @@
 
 
 <p align="left">
-<a href="https://www.github.com/TimChen0409" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.codepen.io/timchen0409" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
+<a href="https://github.com/TimChen0409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="timchen0409" height="30" width="40" /></a>
+<a href="https://codepen.io/timchen0409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="timchen0409" height="30" width="40" /></a>
 </p>
 
 ### Badges
